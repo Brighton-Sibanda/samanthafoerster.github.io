@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Samantha Foerster</title>
+    <link>https://samanthafoerster.github.io/posts/</link>
+    <description>Recent content in Posts on Samantha Foerster</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://samanthafoerster.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sleep, Circadian Rhythms, and Space Research</title>
+      <link>https://samanthafoerster.github.io/posts/sleep-circadian-research/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://samanthafoerster.github.io/posts/sleep-circadian-research/</guid>
+      <description>&lt;p&gt;In my work with the Turek Lab, I’ve explored how jetlag and circadian rhythms affect cognition. We even studied microbiomes in spaceflight conditions for NASA!&lt;/p&gt;
+&lt;p&gt;Research is like songwriting: it requires precision, pattern recognition, and a bit of improvisation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Where Music Meets Medicine</title>
+      <link>https://samanthafoerster.github.io/posts/music-and-medicine/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://samanthafoerster.github.io/posts/music-and-medicine/</guid>
+      <description>&lt;p&gt;As both a researcher and musician, I often reflect on the intersection of science and art. Whether it&amp;rsquo;s understanding neural responses to rhythm or singing in a lab meeting (yes, that happened), I find joy in blending both worlds.&lt;/p&gt;
+&lt;p&gt;Stay tuned for stories from both the stage and the lab bench.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,6 +2,7 @@ baseURL = "https://samanthafoerster.github.io/"
 languageCode = "en-us"
 title = "Samantha Foerster"
 theme = "PaperMod"
+publishDir = "public"
 
 [params]
   author = "Brighton Sibanda"
